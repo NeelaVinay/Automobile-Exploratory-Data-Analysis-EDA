@@ -17,6 +17,7 @@ Insurance Risk (Symboling): A rating scale from -3 (safe) to +3 (risky) indicati
 Normalized Losses: The relative average loss payment per insured vehicle year, adjusted for size classification.
 
 **🛠️ Tech Stack**
+
 Language: Python
 
 Libraries: * Pandas: Data manipulation and structured analysis.
