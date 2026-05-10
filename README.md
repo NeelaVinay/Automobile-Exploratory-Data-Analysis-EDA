@@ -2,7 +2,7 @@
 
 🚗 Automobile Exploratory Data Analysis (EDA)
 
-📌 Project Overview
+**📌 Project Overview**
 This project performs an end-to-end Exploratory Data Analysis on the 1985 Ward's Automotive Yearbook dataset. The primary objective is to understand the technical specifications, insurance risk ratings ("symboling"), and normalized loss payments of various automobile entities to uncover the drivers behind vehicle pricing and safety.
 
 📊 Dataset Insights
