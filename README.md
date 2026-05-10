@@ -49,7 +49,9 @@ Drivetrain Variance: Significant price differences were observed when pivoting b
 **📂 Project Structure**
 
 ├── 6_Exploratory Data Analysis.ipynb   # Main analysis notebook
+
 ├── automobile.csv                      # Raw dataset
+
 └── README.md                           # Project documentation
 
 👤 Author
