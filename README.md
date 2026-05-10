@@ -6,6 +6,7 @@
 This project performs an end-to-end Exploratory Data Analysis on the 1985 Ward's Automotive Yearbook dataset. The primary objective is to understand the technical specifications, insurance risk ratings ("symboling"), and normalized loss payments of various automobile entities to uncover the drivers behind vehicle pricing and safety.
 
 📊 Dataset Insights
+
 The dataset encompasses three core dimensions of automotive data:
 
 Specifications: Physical and mechanical characteristics (engine size, horsepower, dimensions, etc.).
@@ -24,6 +25,7 @@ NumPy: Numerical processing.
 Matplotlib/Seaborn: Statistical data visualization.
 
 🚀 Key Analysis Workflow
+
 Data Ingestion & Profiling: Loading the automobile.csv dataset and performing an initial audit of data types and statistical distributions.
 
 Statistical Summary: Utilizing descriptive statistics to identify central tendencies in pricing (Mean: ~$13,207) and physical attributes.
@@ -35,6 +37,7 @@ Feature Engineering: Segmenting data, such as binning horsepower into "Low," "Me
 Multi-dimensional Grouping: Pivoting data by drive-wheels and body-style to analyze price variance across different vehicle configurations.
 
 📈 Featured Findings
+
 Price Distribution: Vehicle prices in this dataset range from a minimum of $5,118 to a maximum of $45,400.
 
 Horsepower Impact: The analysis categorizes vehicles into horsepower bins, identifying "Medium" as a common tier for brands like Toyota and Alfa-Romero.
